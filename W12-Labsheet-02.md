@@ -59,6 +59,7 @@
 | 1 | Initial commit |0d72dab|0d72dab|YES|
 | 2 | Update README.md |250dacc|250dacc|YES|
 | 3 | Update README.md |a484d53|a484d53|YES|
+| 4 | แก้ไขข้อ15.md |e41560a|e41560a|YES|
 
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
