@@ -53,6 +53,10 @@
 - Initial commit คือชื่อของ commit แรกของ repository ที่ถูกสร้างโดย github.com
 
 - ในตัวอย่างนี้มีเพียงไฟล์ README.md ถ้ามีหลายไฟล์ ให้เลือกจากรายการไฟล์ใน pane ด้านซ้ายของห
+  
+| NO | comit message | Website Comit number | Desktop Comit Number | match |
+|:----:|:-------------:|:-------------------:|:---------------------|:-----------:|
+| 1 | Initail comit | 0d72dab | Yes |
 
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
