@@ -57,6 +57,8 @@
 | No | Commit message |  Web site Commit number | Desktop Commit Number | match |
 |----|----------------|-----------------------:|---------------------:|:------:| 
 | 1 | Initial commit |                 0d72dab | 0d72dab | YES |             
+| 2 |   ......... |                 ....... | ....... | YES |             
+
 
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
