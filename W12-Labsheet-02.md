@@ -57,7 +57,7 @@
 |No|comit message|website comit number|Destop comit Number|match|
 |:---:|:---------:|:-----------------:|:------------------:|:---:|
 |1|Intail comit|0d72dab|0d72dab|yes|
-|
+|2|แก้ไขข้อที่15|f74c8bc|f74c8bc|yes|
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
 คลิกเมนู Repositpry -> Show in Explorer ดังภาพต่อไปนี้
