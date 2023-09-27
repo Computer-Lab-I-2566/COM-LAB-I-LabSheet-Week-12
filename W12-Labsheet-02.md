@@ -54,6 +54,22 @@
 
 - ในตัวอย่างนี้มีเพียงไฟล์ README.md ถ้ามีหลายไฟล์ ให้เลือกจากรายการไฟล์ใน pane ด้านซ้ายของห
 
+|NO |Commit message |Web Site Commit Number|Desktop Commit Number|Match|
+|:---:|:---------------:|:----------------------:|:---------------------:|:-----:|
+  1 |   Intial commit|0990682|  0990682  |      YES|
+  2 |  Update README.md|ea7a07e|ea7a07e |YES
+  3 |  Update README.md|3eca768|3eca768 |YES
+  4 |  Update README.md|0990682|0990682 |YES
+  5 |  Create My_resume.html.txt|1b1f7a8|1b1f7a8 |YES
+  6 |  Merge branch 'DEV-65030096'|eec32f9|eec32f9 |YES
+  7 |  Update My_resume.html.txt|79b3b55|79b3b55 |YES
+  8 |  ใส่ข้อมูลเพิ่มเติมl.txt|00ee1dc|00ee1dc |YES
+  9 |  Merge pull request|e5276fd|e5276fd |YES
+  
+  
+  
+  
+  
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
 คลิกเมนู Repositpry -> Show in Explorer ดังภาพต่อไปนี้
