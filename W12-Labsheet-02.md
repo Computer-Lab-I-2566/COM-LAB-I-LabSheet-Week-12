@@ -57,9 +57,13 @@
  | NO | commit message | Web site commit number | Desktop Commit Number | Match |
 |----|------------------|--------------------|---------------------|-------|
 |  1 | Initial commit | 0d72dab | 0d72dab | YES |
-|  2 |Update README.md  | 753ddd0 | 753ddd0 | YES |
-|  3 | $git commit -m "edit by local" |  7a0ea59 |  7a0ea59 | YES |
-|  4 | $git commit -m "edit by local" | e93f2b6  | e93f2b6 | YES |
+|  2 | Initial commit | e93f2b6  | e93f2b6 | YES |                   
+|  3 |Update README.md  |753ddd0   | 753ddd0 | YES |
+|  4 | Update README.md |6cb3e5f|6cb3e5f|YES|
+|  5 | $git commit -m "edit by local" |  7a0ea59 |  7a0ea59 | YES |
+|  6 | $git commit -m "edit by local" | e93f2b6  | e93f2b6 | YES |
+
+
 
 
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
