@@ -54,6 +54,16 @@
 
 - ในตัวอย่างนี้มีเพียงไฟล์ README.md ถ้ามีหลายไฟล์ ให้เลือกจากรายการไฟล์ใน pane ด้านซ้ายของห
 
+| NO | commit message | Web site commit number | Desktop Commit Number | Match |
+|----|------------------|--------------------|---------------------|-------|
+|1|Initial commit|0d72dab|0d72dab|Yes|
+|2|$git commit -m "edit by local"|4773ccf|4773ccf|Yes|
+|3|edit by online|52d7d5c|52d7d5c|Yes|
+|4|$git commit -m "edit by local"|086ef56|086ef56|Yes|
+|5|part2|59e0d4d|59e0d4d|Yes|
+|6|part3|3fbfb75|3fbfb75|Yes|
+|7|Merge pull request #1 from VisawaPRO/DEV-65030229|d00df17|d00df17|Yes|
+
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
 คลิกเมนู Repositpry -> Show in Explorer ดังภาพต่อไปนี้
