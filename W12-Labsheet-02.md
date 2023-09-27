@@ -57,6 +57,7 @@
   | No | Comit message | Website Comit number | Desktop Comit Number | match |
   |:----:|:-------------:|:-------------------:|:--------------------:|:-------:|
   | 1 | Initail comit | 0d72dab | 0d72dab | Yes |
+  | 2 | Update README.md | 99740e9 | 99740e9 | Yes |
   
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
