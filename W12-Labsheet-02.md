@@ -53,7 +53,16 @@
 - Initial commit คือชื่อของ commit แรกของ repository ที่ถูกสร้างโดย github.com
 
 - ในตัวอย่างนี้มีเพียงไฟล์ README.md ถ้ามีหลายไฟล์ ให้เลือกจากรายการไฟล์ใน pane ด้านซ้ายของห
-
+  
+  |No|Commit message|Web sit Commit number|desktop commit Number|match|
+  |--|--------------|---------------------|---------------------|-----|
+  |1|Initial commit|0d72dab|0d72dab|yes|
+  |2|update README.md|7b2fb52|7b2fb52|yes|
+  |3|update README.md|1df4dea|1df4dea|yes|
+  |4|update README.md|42bb630|42bb630|yes|
+  |5|Create myresume.HTML|ef1e346|ef1e346|yes|
+  |6|resume1|900f008|900f008|yes|
+  |7|Merge pull request #1 from 65030121natthamon/DEV-65030121 |96b94c3|96b94c3|yes|
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
 คลิกเมนู Repositpry -> Show in Explorer ดังภาพต่อไปนี้
