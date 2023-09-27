@@ -57,6 +57,8 @@
 | No | Commit message | Web site Commit number | Desktop Commit Number |match|
 |:----:|:----------------:|----------------------:|----------------------:|:-----:|
 | 1 | Initial commit |0d72dab|0d72dab|YES|
+| 2 | Update README.md |250dacc|250dacc|YES|
+| 3 | Update README.md |a484d53|a484d53|YES|
 
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
