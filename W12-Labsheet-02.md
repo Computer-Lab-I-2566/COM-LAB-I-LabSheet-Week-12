@@ -54,6 +54,10 @@
 
 - ในตัวอย่างนี้มีเพียงไฟล์ README.md ถ้ามีหลายไฟล์ ให้เลือกจากรายการไฟล์ใน pane ด้านซ้ายของห
 
+| No | Commit message |  Web site Commit number | Desktop Commit Number | match |
+|----|----------------|-----------------------:|---------------------:|:------:| 
+| 1 | Initial commit |                 0d72dab | 0d72dab | YES |             
+
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
 คลิกเมนู Repositpry -> Show in Explorer ดังภาพต่อไปนี้
