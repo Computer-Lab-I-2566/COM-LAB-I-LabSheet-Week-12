@@ -54,6 +54,10 @@
 
 - ในตัวอย่างนี้มีเพียงไฟล์ README.md ถ้ามีหลายไฟล์ ให้เลือกจากรายการไฟล์ใน pane ด้านซ้ายของห
 
+  | No | Comit message | Website Comit number | Desktop Comit Number | match |
+  |:----:|:-------------:|:-------------------:|:--------------------:|:-------:|
+  | 1 | Initail comit | 0d72dab | 0d72dab | Yes |
+  
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
 คลิกเมนู Repositpry -> Show in Explorer ดังภาพต่อไปนี้
