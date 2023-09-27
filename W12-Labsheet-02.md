@@ -56,9 +56,10 @@
 
  | NO | commit message | Web site commit number | Desktop Commit Number | Match |
 |----|------------------|--------------------|---------------------|-------|
-|  1 | Initial commit |  7a0ea59 |  7a0ea59 | YES |
-|  2 | Update README.md | e93f2b6  | e93f2b6 | YES |
-|  3 | Update README.md | 753ddd0 | 753ddd0 | YES |
+|  1 | Initial commit | 0d72dab | 0d72dab | YES |
+|  2 | Initial commit |  7a0ea59 |  7a0ea59 | YES |
+|  3 | Update README.md | e93f2b6  | e93f2b6 | YES |
+|  4 | Update README.md | 753ddd0 | 753ddd0 | YES |
 
 #### 6. ทดลองแก้ไขไฟล์ใน working directory
 
