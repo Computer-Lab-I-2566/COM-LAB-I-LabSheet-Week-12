@@ -49,6 +49,11 @@
 (2) ตรวจสอบประวัติการ commit
 
 (3) เปรียบเทียบรุ่นเก่าและใหม่ของไฟล์ที่ถูกแก้
+|no|commit message|Web commit number|Destop commit number|Match|
+|--|---------------|-----------------|-----------------|---------|
+|1|fool|164464b|164464b|Yes|
+|2|part2|d1ca50d|d1ca50d|Yes|
+|3|part3|eaf01a8|eaf01a8|Yes|
 
 - Initial commit คือชื่อของ commit แรกของ repository ที่ถูกสร้างโดย github.com
 
