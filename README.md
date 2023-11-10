@@ -25,4 +25,4 @@ Initial commit คือชื่อของ commit แรกของ reposito
 |4|Update README.md|3f0f084|3f0f084|Yes|
 |5|Update README.md|9a78250|9a78250|Yes|
 |6|Create resume.html|e0fb23b|e0fb23b|Yes|
-|7|Merge pull request #1 from KanyakornPuengmon/DEV-65030018|1ed0bdc|1ed0bdc|Yes|
+|7|Merge pull request|1ed0bdc|1ed0bdc|Yes|
